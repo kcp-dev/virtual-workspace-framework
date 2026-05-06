@@ -1,15 +1,15 @@
 module github.com/kcp-dev/virtual-workspace-framework
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/emicklei/go-restful/v3 v3.12.2
 	github.com/go-logr/logr v1.4.3
 	github.com/google/go-cmp v0.7.0
-	github.com/kcp-dev/apimachinery/v2 v2.0.0-20260312141010-971b01075910
-	github.com/kcp-dev/client-go v0.0.0-20260324152216-a212728598a7
+	github.com/kcp-dev/apimachinery/v2 v2.0.0-00010101000000-000000000000
+	github.com/kcp-dev/client-go v0.0.0
 	github.com/kcp-dev/logicalcluster/v3 v3.0.5
-	github.com/kcp-dev/sdk v0.0.0-20260414070910-fccab25aba18
+	github.com/kcp-dev/sdk v0.0.0
 	github.com/spf13/pflag v1.0.9
 	github.com/stretchr/testify v1.11.1
 	k8s.io/api v0.35.1
@@ -174,4 +174,10 @@ replace (
 	k8s.io/sample-apiserver => github.com/kcp-dev/kubernetes/staging/src/k8s.io/sample-apiserver v0.0.0-20260410121608-7c2225830764
 	k8s.io/sample-cli-plugin => github.com/kcp-dev/kubernetes/staging/src/k8s.io/sample-cli-plugin v0.0.0-20260410121608-7c2225830764
 	k8s.io/sample-controller => github.com/kcp-dev/kubernetes/staging/src/k8s.io/sample-controller v0.0.0-20260410121608-7c2225830764
+)
+
+replace (
+	github.com/kcp-dev/apimachinery/v2 => ../apimachinery
+	github.com/kcp-dev/client-go => ../client-go
+	github.com/kcp-dev/sdk => ../sdk
 )
