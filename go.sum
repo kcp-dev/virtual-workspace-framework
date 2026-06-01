@@ -121,8 +121,8 @@ github.com/jonboulle/clockwork v0.5.0 h1:Hyh9A8u51kptdkR+cqRpT1EebBwTn1oK9YfGYbd
 github.com/jonboulle/clockwork v0.5.0/go.mod h1:3mZlmanh0g2NDKO5TWZVJAfofYk64M7XN3SzBPjZF60=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
 github.com/json-iterator/go v1.1.12/go.mod h1:e30LSqwooZae/UwlEbR2852Gd8hjQvJoHmT4TnhNGBo=
-github.com/kcp-dev/apimachinery/v2 v2.0.0-20260513141322-0f0714fad9ea h1:DEEhjtR79v/1o1O5CXMmlEHnHmGtNNY7IedzzehR0Ws=
-github.com/kcp-dev/apimachinery/v2 v2.0.0-20260513141322-0f0714fad9ea/go.mod h1:1Rkhiwoq345wlUYtq1/P+3chL2eE1rdoIgBPwb6Y9x8=
+github.com/kcp-dev/apimachinery/v2 v2.0.0-20260528111109-3fda4dbfbbc9 h1:3vvseAaUtokDJDeu4LESoplcFU9pqgXaFSvyeiYJxBg=
+github.com/kcp-dev/apimachinery/v2 v2.0.0-20260528111109-3fda4dbfbbc9/go.mod h1:1Rkhiwoq345wlUYtq1/P+3chL2eE1rdoIgBPwb6Y9x8=
 github.com/kcp-dev/client-go v0.0.0-20260522103404-5046253cbd4d h1:tHWIFJe1lvYaeXf9FcztpFOQLPes8RxToNhJfZV0Y4U=
 github.com/kcp-dev/client-go v0.0.0-20260522103404-5046253cbd4d/go.mod h1:UayXqKdaRDBrRXxMyRq/+5CwsDqEXu9LJ9yPBXNQXDI=
 github.com/kcp-dev/kubernetes v1.37.0-alpha.0.0.20260513103013-2d7bf6b3c556 h1:gHufBA5fzKyabXrxOBd3Zj4DemfdmYtvXJStX9bIsXA=
@@ -183,8 +183,8 @@ github.com/kcp-dev/kubernetes/staging/src/k8s.io/streaming v0.0.0-20260513103013
 github.com/kcp-dev/kubernetes/staging/src/k8s.io/streaming v0.0.0-20260513103013-2d7bf6b3c556/go.mod h1:9sXYRxV6dk0iOTol8hn0L/nfV42D5q/zcF2TOvoamfg=
 github.com/kcp-dev/logicalcluster/v3 v3.0.5 h1:JbYakokb+5Uinz09oTXomSUJVQsqfxEvU4RyHUYxHOU=
 github.com/kcp-dev/logicalcluster/v3 v3.0.5/go.mod h1:EWBUBxdr49fUB1cLMO4nOdBWmYifLbP1LfoL20KkXYY=
-github.com/kcp-dev/sdk v0.0.0-20260522103534-1aa5106a17db h1:r1SxwqMTxU9AcpfhHkuz3yfeg918BsKX7tFXV1jbbnM=
-github.com/kcp-dev/sdk v0.0.0-20260522103534-1aa5106a17db/go.mod h1:GE5eG0Q6r72mOvjRDkUrqfjEHYv/wQTPixU2L+yWTXs=
+github.com/kcp-dev/sdk v0.0.0-20260601102533-eaffc0ef80d4 h1:zI31QFIYjgVRRGzGPABd1QSptmt9x9/DAd5N3zBQKqI=
+github.com/kcp-dev/sdk v0.0.0-20260601102533-eaffc0ef80d4/go.mod h1:FUcgKhBkfRyePkOMu6hPxy/2oWHoqOOUtwCg2uc4d1Y=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/klauspost/compress v1.18.0 h1:c/Cqfb0r+Yi+JtIEq73FWXVkRonBlf0CRNYc8Zttxdo=
