@@ -9,7 +9,7 @@ require (
 	github.com/kcp-dev/apimachinery/v2 v2.31.2-0.20260505083940-abda469632ba
 	github.com/kcp-dev/client-go v0.28.1-0.20260511140521-487de9552c40
 	github.com/kcp-dev/logicalcluster/v3 v3.0.5
-	github.com/kcp-dev/sdk v0.0.0-20260608112826-a82c319c7a23
+	github.com/kcp-dev/sdk v0.0.0-20260615132553-d66126c42324
 	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.11.1
 	k8s.io/api v0.36.0
@@ -187,6 +187,6 @@ replace (
 )
 
 replace (
-	github.com/kcp-dev/apimachinery/v2 => github.com/kcp-dev/apimachinery/v2 v2.0.0-20260608111809-266252e0feb0
+	github.com/kcp-dev/apimachinery/v2 => github.com/kcp-dev/apimachinery/v2 v2.0.0-20260615094100-229dbedddc96
 	github.com/kcp-dev/client-go => github.com/kcp-dev/client-go v0.0.0-20260522103404-5046253cbd4d
 )
